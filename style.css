@@ -1,0 +1,37 @@
+body{
+    background-size:cover;
+}
+.heading{
+   width:100%;
+   font-size:25px;
+   margin:0px;
+   font-family: 'Meow Script', cursive;
+   word-spacing:5px;
+   letter-spacing:10px;
+}
+#start{
+    font-size:20px;
+    width:10%;
+}
+#status{
+    font-size:20px;
+}
+#number_of_objects{
+    font-size:20px;
+}
+.copy_right_footer{
+    bottom:0;
+    position:fixed;
+    background-color:#1CE8C0;
+    width:100%;
+    height:5%;
+    font-size:20px;
+    text-align:center;
+    font-family: 'Meow Script', cursive;  
+}
+canvas{
+    box-shadow: 5px 5px 10px grey;
+    border-radius:10px;
+    border:2px solid black;
+    margin-top:75px;
+}
